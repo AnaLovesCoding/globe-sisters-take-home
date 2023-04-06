@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122176305646",
+    "project_id": "globe-sisters-flutter-project",
+    "storage_bucket": "globe-sisters-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122176305646:android:93377e824d8dc25e2476ff",
+        "android_client_info": {
+          "package_name": "com.example.globe_sisters_take_home_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122176305646-8qt3u33dbjg46des89qjpqu5pgmght4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYaUfBN_Bbcq1jKLy6CTdVRaXc7i3eQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122176305646-8qt3u33dbjg46des89qjpqu5pgmght4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

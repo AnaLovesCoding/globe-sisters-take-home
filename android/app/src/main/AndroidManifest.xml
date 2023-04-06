@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.globe_sisters_take_home_project">
-   <application
+
+    <application
         android:label="globe_sisters_take_home_project"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
