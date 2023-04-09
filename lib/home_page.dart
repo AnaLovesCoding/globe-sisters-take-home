@@ -6,7 +6,6 @@ import 'package:globe_sisters_take_home_project/add_item.dart';
 class HomePage extends StatefulWidget {
   const HomePage({Key? key, required String title}) : super(key: key);
 
-
   @override
   State<HomePage> createState() => _HomePageState();
 }
@@ -35,10 +34,7 @@ class _HomePageState extends State<HomePage> {
       print("Failed to load restaurants");
       print(error.toString());
     });
-
   }
-
-
 
   @override
   Widget build(BuildContext context) {
@@ -153,12 +149,7 @@ class _HomePageState extends State<HomePage> {
                                 Icons.delete,
                                 color: Colors.grey,
                               ),
-                              onPressed: () {
-
-
-
-
-                              },
+                              onPressed: () {},
                             ),
                           ],
                         ));
@@ -177,10 +168,9 @@ class _HomePageState extends State<HomePage> {
                       )));
         },
         child: Icon(
-            Icons.add,
+          Icons.add,
         ),
       ),
     );
   }
-
 }
